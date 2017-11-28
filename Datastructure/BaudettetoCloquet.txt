@@ -1,0 +1,8 @@
+Traversal Order of Graph: 
+Bau
+IFl
+GRp
+
+Final Search Order:
+GRp
+Clq

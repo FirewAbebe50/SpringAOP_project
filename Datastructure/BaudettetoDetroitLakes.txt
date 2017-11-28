@@ -1,0 +1,6 @@
+Traversal Order of Graph: 
+Bem
+
+Final Search Order:
+Bem
+DLk

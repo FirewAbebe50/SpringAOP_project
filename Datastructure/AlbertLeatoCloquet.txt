@@ -1,0 +1,15 @@
+Graph Traversal: 
+ALe
+Owa
+Was
+Frb
+Nfd
+SPl
+Skp
+Stl
+
+Search Order:
+Owa
+Frb
+SPl
+Clq

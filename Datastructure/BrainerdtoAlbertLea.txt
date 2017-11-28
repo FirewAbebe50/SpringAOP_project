@@ -1,0 +1,17 @@
+Graph Traversal: 
+Bra
+LFl
+StC
+Mpl
+Skp
+Frb
+Owa
+Nfd
+
+Search Order:
+LFl
+StC
+Skp
+Frb
+Owa
+ALe

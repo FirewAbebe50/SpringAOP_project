@@ -1,0 +1,18 @@
+Traversal Order of Graph: 
+Alx
+LFl
+StC
+Mpl
+Skp
+Frb
+Wlm
+NUl
+Owa
+Nfd
+
+Final Search Order:
+StC
+Skp
+Frb
+Owa
+ALe

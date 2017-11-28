@@ -1,0 +1,13 @@
+Traversal Order of Graph: 
+Alx
+LFl
+Bra
+GRp
+Hib
+
+Final Search Order:
+LFl
+Bra
+GRp
+Hib
+Vir

@@ -1,0 +1,11 @@
+Graph Traversal: 
+Alx
+StC
+LFl
+Bra
+Clq
+
+Search Order:
+StC
+Clq
+Dul
